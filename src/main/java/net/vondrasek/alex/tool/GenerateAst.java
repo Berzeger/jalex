@@ -18,5 +18,6 @@ public class GenerateAst {
         }
         
         String outputDir = args[0];
+        
     }
 }
